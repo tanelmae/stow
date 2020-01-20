@@ -2,8 +2,8 @@ package google
 
 import (
 	"github.com/cheekybits/is"
-	"github.com/graymeta/stow"
-	"github.com/graymeta/stow/test"
+	"github.com/tanelmae/stow"
+	"github.com/tanelmae/stow/test"
 	"google.golang.org/api/storage/v1"
 	"io/ioutil"
 	"os"
